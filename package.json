@@ -1,0 +1,27 @@
+{
+  "name": "modifiler",
+  "version": "1.0.0",
+  "description": "rename rewrite files batch tool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkow/modifiler.git"
+  },
+  "author": "tkow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tkow/modifiler/issues"
+  },
+  "homepage": "https://github.com/tkow/modifiler#readme",
+  "keywords": [
+    "file"
+  ],
+  "packageManager": "pnpm@6.32.3",
+  "devDependencies": {
+    "generator-code": "^1.6.8",
+    "yo": "^4.3.0"
+  }
+}
